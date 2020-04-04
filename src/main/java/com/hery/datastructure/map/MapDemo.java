@@ -18,7 +18,7 @@ public class MapDemo {
     public static AtomicInteger atomicInteger = new AtomicInteger(0);
 
     public static void main(String[] args) {
-//        ConcurrentHashMap map =new ConcurrentHashMap();
+        ConcurrentHashMap map =new ConcurrentHashMap();
 ////        ArrayList arrayList = new ArrayList();
         LinkedList linkedList = new LinkedList();
 //        Vector vector = new Vector();
