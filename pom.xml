@@ -6,6 +6,8 @@
     <modules>
         <module>designpattern</module>
         <module>core</module>
+        <module>netty</module>
+        <module>juc</module>
     </modules>
 
     <parent>
