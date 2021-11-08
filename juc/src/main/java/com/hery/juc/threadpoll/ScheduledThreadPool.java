@@ -1,4 +1,4 @@
-package com.hery.thread.threadpoll;
+package com.hery.juc.threadpoll;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
