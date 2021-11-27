@@ -8,6 +8,7 @@
         <module>core</module>
         <module>netty</module>
         <module>juc</module>
+        <module>rpc</module>
     </modules>
 
     <parent>
