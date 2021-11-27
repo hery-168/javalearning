@@ -1,4 +1,4 @@
-package com.hery.core;
+package com.hery.netty.base;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;
